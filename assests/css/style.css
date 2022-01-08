@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+header{
+    height: 100px;
+    width: 100%;
+    background-color: darkblue;
+}
+
+header h1{
+    text-align: center;
+    padding: 20px;
+    color: wheat;
+}
+
+.container{
+    height: 190vh;
+    width: 100%;
+    background-color: violet;
+}
+.form-grp{
+    height: 300px;
+    width: 900px;
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    height: 50px;
+    width: 70px;
+    background-color: brown;
+    border-radius: 10px;
+}
+input{
+    height: 50px;
+    width: 229px;
+    padding: 10px;
+}
+
+.list-item{
+    height: 200px;
+    width: 200px;
+    background-color: chartreuse;
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: tomato;
+}
